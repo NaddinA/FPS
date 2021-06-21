@@ -1,0 +1,1 @@
+public enum AmmoType { Shells, HeavyBullets, LightBullets };
